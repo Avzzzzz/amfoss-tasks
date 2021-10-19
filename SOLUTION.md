@@ -1,5 +1,5 @@
 First I created the directory using mkdir command and then name of the directory which was Coordinates-Location .
-after that inside that directory i created another directory named Nort with same command.
+after that inside that directory I created another directory named Nort with same command.
 after that i created a file using command nano <filename.txt>
 then i found the value of discriminant and used ctrl + shift + u B 0 and then released all the keys to get the degree symbol.
 again created another 2 files with same command .
