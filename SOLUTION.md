@@ -19,4 +19,12 @@ cat EDegree.txt EMinutes.txt ESeconds.txt > EastCoordinate.txt
 ![map](https://user-images.githubusercontent.com/91279824/137578034-7ef39de8-19a5-4b09-a4bf-21c4a24abc1d.png)
 
 
+I used the following commands:
+ 
+git init to intilaize the git repository,
+git remote add origin "link of the repository"-origin is the remote name and remote url is https://github.com/Avzzzzz/amfoss-tasks.git
+used git remote -v
+git add filename(solution.md) to add the file
+git commit -m "commit" -used to save changes to a local repository after staging in Git. 
+git push origin main - is used for pushing the local file
 
