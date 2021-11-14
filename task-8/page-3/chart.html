@@ -1,0 +1,47 @@
+<html>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+  <body>
+    
+    <canvas id="myChart" style="width: 200%; max-width: 1200px"></canvas>
+    <script>
+      let myChart = document.getElementById("myChart").getContext("2d");
+      let pizzaChart = new Chart(myChart, {
+        type: "bar",
+        data: {
+          labels: [
+            "Pepperoni",
+            "Farmhous",
+            "Veggie Paradise",
+            "Peppy Panne",
+            "VEGGIE PARADISE",
+          ],
+          datasets: [
+            {
+              label: "pizza",
+              data: [
+                Math.floor(Math.random() * (100 - 20 + 1)) + 20,
+                Math.floor(Math.random() * (80 - 1 + 1)) + 1,
+                Math.floor(Math.random() * (90 - 20 + 1)) + 20,
+                Math.floor(Math.random() * (50 - 40 + 1)) + 40,
+                Math.floor(Math.random() * (85 - 20 + 1)) + 20,
+              ],
+
+              backgroundColor: [
+                "rgb(102, 217, 255)",
+                "rgb(255, 102, 102)",
+                "rgb(255, 255, 102)",
+                "rgb(102, 255, 102)",
+                "rgb(102, 102, 253)",
+              ],
+            },
+          ],
+        },
+      });</script>
+      
+      </body>
+
+      <!--Visualise the chart based on the data from data.js-->
+      <center><h3>Place your graph here</h3></center>
+    </script>
+  </body>
+</html>
