@@ -14,7 +14,7 @@ Task-3  I tried doing it but didnt got the correct code.
 
 Task-5 I tried task -5 and got till line 50 but was not able to complete the entire programm.
 
-task-6 this task took alot of time for me got confused at many places  had issue with emulator at first my phone didnt had the developer option but after that used another phone and got it. i got all the pages dscription heading and also the dotted animation , but then animation was somewhat different and also ot the skip and get started button in a different way.
+task-6 this task took alot of time for me got confused at many places  had issue with emulator at first my phone didnt had the developer option but after that used another phone and got it. i got all the pages dscription heading and also the dotted animation , but then animation was somewhat different and also got the skip and get started button in a different way.
 
 task-8 task 8 was about JSExplorer it took me 3 days to complete the task but after doing the task i realised it was not that tough . I got stuck in the second page with button but after i got one button then i got almost evry button except button 1 and 6 which again took some time but after watching many tutorials and reffering to various website about the issue got that.and page 3 it was easy . so yeah successfully completed task 8.
 
