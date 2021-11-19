@@ -4,6 +4,8 @@ All the tasks by amfoss was intresting , some of them took time for me,.
 
 Task Completed:0,1,2,6,8,9,11,12,14
 
+task 0 is dual boot ubntu which i followed some tutorials and completed.
+
 
 task 1 was about introduction to github which was an easy one so no isuues faced in that.
 
