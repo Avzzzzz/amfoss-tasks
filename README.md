@@ -1,25 +1,6 @@
 # amfoss-tasks
 
 
-## List of tasks 
-| Tasks                                                                           | Description | Status    |
-|---------------------------------------------------------------------------------|-------------|-----------|
-| [Task - 0](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-0)  |Install Ubuntu 20.04 [Desktop]| *Completed* |
-| [Task - 1](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-1)  |Star all the amFOSS repositories| *Completed* |
-| [Task - 2](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-2)  |Begin your journey with Linux and Git| *Completed* |
-| [Task - 3](https://github.com/PranavKrishnan007/amFOSS-tasks/tree/main/task-3)  |Programming| Incomplete|
-| [Task - 4](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-4)  |Aerglo Mars| Incomplete |
-| [Task - 5](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-5)  |Let me C| Incomplete |
-| [Task - 6](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-6)  | Flutter based UI task| *Completed* |
-| [Task - 7](https://github.com/PranavKrishnan007/amFOSS-tasks/tree/main/task-7)  |Rich Scraper| Incomplete|
-| [Task - 8](https://github.com/PranavKrishnan007/amFOSS-tasks/tree/main/task-8)  |JSExplorer| *Completed* |
-| [Task - 9](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-9)  |Setup a Simple Personal Website| Completed |
-| [Task - 10](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-10)|CS50| Incomplete   |
-| [Task - 11](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-11)|Poster Design| *Completed* |
-| [Task - 12](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-12)|Make the Block| *Completed* |
-| [Task - 13](https://github.com/PranavKrishnan007/amFOSS-tasks/tree/main/task-13)|Circuit Design| Incomplete |
-| [Task - 14](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-14)|Bandit| *Completed* |
-| [Task - 15](https://github.com/PranavKrishnan007/amfoss-tasks/tree/main/task-15)|Project Euler (for math geeks)| Ongoing |
 
 ## My Approach To Tasks
 
