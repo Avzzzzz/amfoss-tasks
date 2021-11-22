@@ -14,7 +14,7 @@
 | [Task - 9](https://github.com/Avzzzzz/amfoss-tasks/tree/main/task-9)|Setup a Simple Personal Website| *Completed* |
 | [Task - 10]|CS50| Ongoing   |
 | [Task - 11](https://github.com/Avzzzzz/amfoss-tasks/tree/main/task-11)|1Poster Design| *Completed* |
-| [Task - 12](https://github.com/Avzzzzz/amfoss-tasks/tree/main/task-12)| *Completed* |
+| [Task - 12](https://github.com/Avzzzzz/amfoss-tasks/tree/main/task-12)|Blockchain|| *Completed* |
 | [Task - 13]|Circuit Design| Incomplete |
 | [Task - 14](https://github.com/Avzzzzz/amfoss-tasks/tree/main/task-14) |Bandit| *Completed* |
 | [Task - 15]|Project Euler (for math geeks)| Ongoing |
